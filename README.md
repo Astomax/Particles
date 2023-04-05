@@ -1,5 +1,5 @@
 # Particles
-A simulation of particles written in c++. 
+A simulation of particles written in c++. The simulation consists of 100.000 agents. To find the .exe file go to .\x64\debug. 
 
 
 ![Schermopname (36)](https://user-images.githubusercontent.com/90266245/230142661-27a32e1b-9c4a-49e7-8b90-d8bcd2ca55b2.png)
